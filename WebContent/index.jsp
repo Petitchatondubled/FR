@@ -15,6 +15,9 @@
     <ul>
       <li><a href="liste_entreprises.jsp">Liste des entreprises référencées</a></li>
     </ul>
+  	<ul>
+      <li><a href="deconnexion.jsp">Se déconnecter</a></li>
+    </ul>
   
   </body>
 
